@@ -120,10 +120,6 @@ local realmToNameHorde = {
         ["DarkmoonFaire"] = "TheProHordi-DarkmoonFaire",
         ["EarthenRing"] = "TheProHordi-DarkmoonFaire",
     --
-        ["Darksorrow"] = "TheProHordi-Darksorrow",
-        ["Neptulon"] = "TheProHordi-Darksorrow",
-        ["Genjuros"] = "TheProHordi-Darksorrow",
-    --
         ["Darkspear"] = "TheProHordi-Darkspear",
         ["Saurfang"] = "TheProHordi-Darkspear",
         ["Terokkar"] = "TheProHordi-Darkspear",
@@ -344,6 +340,9 @@ local realmToNameHorde = {
     --
         ["Ysondre"] = "TheProHordi-Ysondre",
     --
+        ["Darksorrow"] = "TheProHordi-Darksorrow",
+        ["Neptulon"] = "TheProHordi-Darksorrow",
+        ["Genjuros"] = "TheProHordi-Darksorrow",
         ["Zenedar"] = "TheProHordi-Zenedar",
         ["Bladefist"] = "TheProHordi-Zenedar",
         ["Frostwhisper"] = "TheProHordi-Zenedar",
@@ -396,10 +395,6 @@ local realmToNameAlliance = {
 
     ["DarkmoonFaire"] = "Proalibank-DarkmoonFaire",
     ["EarthenRing"] = "Proalibank-DarkmoonFaire",
-
-    ["Darksorrow"] = "Proalibank-Darksorrow",
-    ["Neptulon"] = "Proalibank-Darksorrow",
-    ["Genjuros"] = "Proalibank-Darksorrow",
 
     ["Dragonblight"] = "Proalibank-Dragonblight",
     ["Ghostlands"] = "Proalibank-Dragonblight",
@@ -575,6 +570,9 @@ local realmToNameAlliance = {
     ["EmeraldDream"] = "Proalibank-EmeraldDream",
     ["Terenas"] = "Proalibank-EmeraldDream",
 
+    ["Darksorrow"] = "Proalibank-Darksorrow",
+    ["Neptulon"] = "Proalibank-Darksorrow",
+    ["Genjuros"] = "Proalibank-Darksorrow",
     ["Frostwhisper"] = "Proalibank-Frostwhisper",
     ["Bladefist"] = "Proalibank-Frostwhisper",
     ["Zenedar"] = "Proalibank-Frostwhisper",
