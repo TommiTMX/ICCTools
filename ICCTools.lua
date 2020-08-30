@@ -17,9 +17,6 @@ local realmToNameHorde = {
         ["Aggramar"] = "TheProHordi-Aggramar",
         ["Hellscream"] = "TheProHordi-Aggramar",
     --
-        ["Alexstrasza"] = "TheProHordi-Alexstrasza",
-        ["Nethersturm"] = "TheProHordi-Alexstrasza",
-    --
         ["Alleria"] = "TheProHordi-Alleria",
         ["Rexxar"] = "TheProHordi-Alleria",
     --
@@ -42,8 +39,11 @@ local realmToNameHorde = {
         ["Illidan"] = "TheProHordi-Arathi",
         ["Naxxramas"] = "TheProHordi-Arathi",
     --
-        ["Arathor"] = "TheProHordi-Arathor",
-        ["Hellfire"] = "TheProHordi-Arathor",
+        ["Nagrand"] = "TheProHordi-Nagrand",
+        ["Runetotem"] = "TheProHordi-Nagrand",
+        ["Kilrogg"] = "TheProHordi-Nagrand",
+        ["Arathor"] = "TheProHordi-Nagrand",
+        ["Hellfire"] = "TheProHordi-Nagrand",
     --
         ["Archimonde"] = "TheProHordi-Archimonde",
     --
@@ -86,6 +86,8 @@ local realmToNameHorde = {
         ["Blackhand"] = "TheProHordi-Blackhand",
     --
         ["Blackmoore"] = "TheProHordi-Blackmoore",
+        ["Lordaeron"] = "TheProHordi-Blackmoore",
+        ["Tichondrius"] = "TheProHordi-Blackmoore",
     --
         ["Blackrock"] = "TheProHordi-Blackrock",
     --
@@ -100,6 +102,9 @@ local realmToNameHorde = {
         ["Executus"] = "TheProHordi-Bloodfeather",
     --
         ["BurningLegion"] = "TheProHordi-BurningLegion",
+        ["Xavius"] = "TheProHordi-BurningLegion",
+        ["Al'Akir"] = "TheProHordi-BurningLegion",
+        ["Skullcrusher"] = "TheProHordi-BurningLegion",
     --
         ["ChamberofAspects"] = "TheProHordi-ChamberofAspects",
     --
@@ -194,8 +199,6 @@ local realmToNameHorde = {
         ["Exodar"] = "TheProHordi-Exodar",
         ["Minahonda"] = "TheProHordi-Exodar",
     --
-        ["Frostmane"] = "TheProHordi-Frostmane",
-    --
         ["Frostwolf"] = "TheProHordi-Frostwolf",
     --
         ["Gilneas"] = "TheProHordi-Gilneas",
@@ -203,6 +206,7 @@ local realmToNameHorde = {
     --
         ["GrimBatol"] = "TheProHordi-GrimBatol",
         ["Aggra(Português)"] = "TheProHordi-GrimBatol",
+        ["Frostmane"] = "TheProHordi-GrimBatol",
     --
         ["Hyjal"] = "TheProHordi-Hyjal",
     --
@@ -228,11 +232,10 @@ local realmToNameHorde = {
         ["Lightbringer"] = "TheProHordi-Lightbringer",
         ["Mazrigos"] = "TheProHordi-Lightbringer",
     --
-        ["Lordaeron"] = "TheProHordi-Lordaeron",
-        ["Tichondrius"] = "TheProHordi-Lordaeron",
-    --
-        ["Madmortem"] = "TheProHordi-Madmortem",
-        ["Proudmoore"] = "TheProHordi-Madmortem",
+        ["Alexstrasza"] = "TheProHordi-Alexstrasza",
+        ["Nethersturm"] = "TheProHordi-Alexstrasza",
+        ["Madmortem"] = "TheProHordi-Alexstrasza",
+        ["Proudmoore"] = "TheProHordi-Alexstrasza",
     --
         ["Magtheridon"] = "TheProHordi-Magtheridon",
     --
@@ -252,10 +255,6 @@ local realmToNameHorde = {
         ["Moonglade"] = "TheProHordi-Moonglade",
         ["TheSha'tar"] = "TheProHordi-Moonglade",
         ["SteamwheedleCartel"] = "TheProHordi-Moonglade",
-    --
-        ["Nagrand"] = "TheProHordi-Nagrand",
-        ["Runetotem"] = "TheProHordi-Nagrand",
-        ["Kilrogg"] = "TheProHordi-Nagrand",
     --
         ["Nathrezim"] = "TheProHordi-Nathrezim",
         ["Anetheron"] = "TheProHordi-Nathrezim",
@@ -342,10 +341,6 @@ local realmToNameHorde = {
     --
         ["Wildhammer"] = "TheProHordi-Wildhammer",
         ["Thunderhorn"] = "TheProHordi-Wildhammer",
-    --
-        ["Xavius"] = "TheProHordi-Xavius",
-        ["Al'Akir"] = "TheProHordi-Xavius",
-        ["Skullcrusher"] = "TheProHordi-Xavius",
     --
         ["Ysondre"] = "TheProHordi-Ysondre",
     --
@@ -584,9 +579,6 @@ local realmToNameAlliance = {
     ["Bladefist"] = "Proalibank-Frostwhisper",
     ["Zenedar"] = "Proalibank-Frostwhisper",
 
-    ["Hellfire"] = "Proalibank-Hellfire",
-    ["Arathor"] = "Proalibank-Hellfire",
-
     ["Hyjal"] = "Proalibank-Hyjal",
 
     ["Kazzak"] = "Proalibank-Kazzak",
@@ -599,6 +591,8 @@ local realmToNameAlliance = {
     ["Nagrand"] = "Proalibank-Nagrand",
     ["Runetotem"] = "Proalibank-Nagrand",
     ["Kilrogg"] = "Proalibank-Nagrand",
+    ["Hellfire"] = "Proalibank-Nagrand",
+    ["Arathor"] = "Proalibank-Nagrand",
 
     ["Outland"] = "Proalibank-Outland",
 
