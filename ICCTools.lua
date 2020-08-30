@@ -360,6 +360,12 @@ local realmToNameHorde = {
 }
 
 local realmToNameAlliance = {
+
+    ["Baelgun"] = "Proalibank-Baelgun",
+    ["Krag'jin"] = "Proalibank-Baelgun",
+    ["Azshara"] = "Proalibank-Baelgun",
+    ["Lothar"] = "Proalibank-Baelgun",
+
     ["Arathi"] = "Proalibank-Arathi",
     ["Templenoir"] = "Proalibank-Arathi",
     ["Naxxramas"] = "Proalibank-Arathi",
@@ -438,8 +444,10 @@ local realmToNameAlliance = {
     ["LesClairvoyants"] = "Proalibank-LesSentinelles",
     ["ConfrérieduThorium"] = "Proalibank-LesSentinelles",
 
-    ["Madmortem"] = "Proalibank-Madmortem",
-    ["Proudmoore"] = "Proalibank-Madmortem",
+    ["Alexstrasza"] = "Proalibank-Alexstrasza",
+    ["Nethersturm"] = "Proalibank-Alexstrasza",
+    ["Madmortem"] = "Proalibank-Alexstrasza",
+    ["Proudmoore"] = "Proalibank-Alexstrasza",
 
     ["Malfurion"] = "Proalibank-Malfurion",
     ["Malygos"] = "Proalibank-Malfurion",
@@ -486,10 +494,6 @@ local realmToNameAlliance = {
     ["Vol'jin"] = "Proalibank-Vol'jin",
     ["Chantséternels"] = "Proalibank-Vol'jin",
 
-    ["Xavius"] = "Proalibank-Xavius",
-    ["Skullcrusher"] = "Proalibank-Xavius",
-    ["Al'Akir"] = "Proalibank-Xavius",
-
     ["Aegwynn"] = "Proalibank-Aegwynn",
 
     ["AeriePeak"] = "Proalibank-AeriePeak",
@@ -502,11 +506,9 @@ local realmToNameAlliance = {
     ["Crushridge"] = "Proalibank-Agamaggan",
     ["Bloodscalp"] = "Proalibank-Agamaggan",
     
-    ["Aggra(Português)"] = "Proalibank-Aggra(Português)",
-    ["GrimBatol"] = "Proalibank-Aggra(Português)",
-
-    ["Alexstrasza"] = "Proalibank-Alexstrasza",
-    ["Nethersturm"] = "Proalibank-Alexstrasza",
+    ["Frostmane"] = "Proalibank-Frostmane",
+    ["Aggra(Português)"] = "Proalibank-Frostmane",
+    ["GrimBatol"] = "Proalibank-Frostmane",
 
     ["Alleria"] = "Proalibank-Alleria",
     ["Rexxar"] = "Proalibank-Alleria",
@@ -537,6 +539,8 @@ local realmToNameAlliance = {
     ["Blackhand"] = "Proalibank-Blackhand",
 
     ["Blackmoore"] = "Proalibank-Blackmoore",
+    ["Lordaeron"] = "Proalibank-Blackmoore",
+    ["Tichondrius"] = "Proalibank-Blackmoore",
 
     ["Blackrock"] = "Proalibank-Blackrock",
 
@@ -545,6 +549,9 @@ local realmToNameAlliance = {
     ["Eonar"] = "Proalibank-Blade'sEdge",
 
     ["BurningLegion"] = "Proalibank-BurningLegion",
+    ["Xavius"] = "Proalibank-BurningLegion",
+    ["Skullcrusher"] = "Proalibank-BurningLegion",
+    ["Al'Akir"] = "Proalibank-BurningLegion",
 
     ["ChamberofAspects"] = "Proalibank-ChamberofAspects",
 
@@ -572,8 +579,6 @@ local realmToNameAlliance = {
 
     ["EmeraldDream"] = "Proalibank-EmeraldDream",
     ["Terenas"] = "Proalibank-EmeraldDream",
-
-    ["Frostmane"] = "Proalibank-Frostmane",
 
     ["Frostwhisper"] = "Proalibank-Frostwhisper",
     ["Bladefist"] = "Proalibank-Frostwhisper",
@@ -636,8 +641,6 @@ local realmToNameAlliance = {
     ["Arakarahm"] = "NOBANK",
     ["Area52"] = "NOBANK",
     ["Arygos"] = "NOBANK",
-    ["Azshara"] = "NOBANK",
-    ["Baelgun"] = "NOBANK",
     ["BronzeDragonflight"] = "NOBANK",
     ["C'Thun"] = "NOBANK",
     ["Cho'gall"] = "NOBANK",
@@ -664,12 +667,9 @@ local realmToNameAlliance = {
     ["Hellscream"] = "NOBANK",
     ["Kael'thas"] = "NOBANK",
     ["Khaz'goroth"] = "NOBANK",
-    ["Krag'jin"] = "NOBANK",
     ["Krasus"] = "NOBANK",
     ["KultderVerdammten"] = "NOBANK",
     ["LaCroisadeécarlate"] = "NOBANK",
-    ["Lordaeron"] = "NOBANK",
-    ["Lothar"] = "NOBANK",
     ["Mannoroth"] = "NOBANK",
     ["Medivh"] = "NOBANK",
     ["Minahonda"] = "NOBANK",
@@ -682,7 +682,6 @@ local realmToNameAlliance = {
     ["Suramar"] = "NOBANK",
     ["Throk'Feroth"] = "NOBANK",
     ["Thunderhorn"] = "NOBANK",
-    ["Tichondrius"] = "NOBANK",
     ["Tirion"] = "NOBANK",
     ["Todeswache"] = "NOBANK",
     ["Uldaman"] = "NOBANK",
